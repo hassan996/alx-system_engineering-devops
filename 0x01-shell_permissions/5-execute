@@ -1,2 +1,2 @@
 #!/bin/bash
-touch 700 hello
+touch -R 700 hello
